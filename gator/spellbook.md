@@ -81,4 +81,4 @@ func main() {
 }
 ```
 
-These examples illustrate how to set up a simple CLI application in Go, allowing commands to interact with applic
+These examples illustrate how to set up a simple CLI application in Go, allowing commands to interact with application state using custom handler functions.
