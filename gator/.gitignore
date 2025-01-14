@@ -1,9 +1,2 @@
-# Binaries
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-
-# Go workspace file
-go.work
+out
+.env
